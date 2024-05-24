@@ -35,6 +35,8 @@ Kaggle is a popular platform that hosts a variety of datasets, including those r
 Kaggle Account: Ensure you have a registered account on Kaggle.
 Dataset URL: Navigate to the Lending Club dataset page on Kaggle. The dataset can be found here.
 
+Google Drive Link - https://docs.google.com/spreadsheets/d/13-q5tTVNZRkEaXu5kggTbwJjbbTla3K7/edit?usp=sharing&ouid=109039094400598558005&rtpof=true&sd=true
+
 # Project Demonstration & Documentation
 # Story
 A data story is a way of presenting data and analysis in a narrative format, with the goal of making the information more engaging and easier to understand. A data story typically includes a clear introduction that sets the stage and explains the context for the data, a body that presents the data and analysis in a logical and systematic way, and a conclusion that summarizes the key findings and highlights their implications. Data stories can be told using a variety of mediums, such as reports, presentations, interactive visualizations, and videos.
