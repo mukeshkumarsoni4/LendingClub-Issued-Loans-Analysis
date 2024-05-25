@@ -45,7 +45,7 @@ A data story is a way of presenting data and analysis in a narrative format, wit
 Google Drive Link - https://drive.google.com/file/d/1gdxqqv3US05SD3O3IV926p2hBRTewMOE/view?usp=sharing
 
 # Activity 2: - Record explanation Video for the project's end-to-end solution
-Google Drive Link - https://drive.google.com/file/d/15ZKs672LuRFtz0mfrKwEYj70ueiWagAy/view
+Google Drive Link - https://youtu.be/mLUuVIYpZLU?feature=shared
 
 
 
