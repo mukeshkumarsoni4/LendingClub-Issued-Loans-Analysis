@@ -45,7 +45,10 @@ A data story is a way of presenting data and analysis in a narrative format, wit
 Google Drive Link - https://drive.google.com/file/d/1gdxqqv3US05SD3O3IV926p2hBRTewMOE/view?usp=sharing
 
 # Activity 2: - Record explanation Video for the project's end-to-end solution
-Google Drive Link - https://youtu.be/mLUuVIYpZLU?feature=shared
+YouTube Link - https://youtu.be/mLUuVIYpZLU?feature=shared
+
+# Medium Blog Post :-
+Medium Blog Post link:- https://medium.com/@sonimukeshkumar952/lending-club-issued-loans-analysis-b62bcdf424d0
 
 
 
